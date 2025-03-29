@@ -1,4 +1,4 @@
-
+## PULSE CODE MODULATION
 ## Aim
 
 The aim of this program is to simulate the Pulse Code Modulation (PCM) process, where an analog message signal is converted into a digital signal through sampling and quantization.
