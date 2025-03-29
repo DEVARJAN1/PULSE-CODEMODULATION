@@ -1,4 +1,6 @@
 # PULSE CODE MODULATION
+# DEVARAJAN
+# 212223060044
 ## Aim
 
 The aim of this program is to simulate the Pulse Code Modulation (PCM) process, where an analog message signal is converted into a digital signal through sampling and quantization.
@@ -63,7 +65,7 @@ plt.tight_layout()
 plt.show()
 ~~~~
 
-Output waveform
+## Output waveform
 ![image](https://github.com/user-attachments/assets/e457ddfd-f6d5-4a76-982e-e67e97313a09)
 
 ## Result
